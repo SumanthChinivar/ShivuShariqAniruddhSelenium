@@ -13,6 +13,7 @@ import org.openqa.selenium.interactions.Actions;
 
 //Learning click function
 public class LearningClick {
+	//learning pushing
 	public static void main(String[] args) throws InterruptedException {
 		// to set and path
 		System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
