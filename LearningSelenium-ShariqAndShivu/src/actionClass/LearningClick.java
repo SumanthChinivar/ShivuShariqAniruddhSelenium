@@ -10,6 +10,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
+
+//Learning click function
 public class LearningClick {
 	public static void main(String[] args) throws InterruptedException {
 		// to set and path
