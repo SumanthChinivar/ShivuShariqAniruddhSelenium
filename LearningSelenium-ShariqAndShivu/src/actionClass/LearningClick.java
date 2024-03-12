@@ -11,7 +11,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
 //Learning click function
-//Moye Moye
 public class LearningClick {
 	// learning pushing
 	public static void main(String[] args) throws InterruptedException {
