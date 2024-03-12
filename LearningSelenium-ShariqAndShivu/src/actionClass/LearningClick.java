@@ -10,11 +10,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
-<<<<<<< HEAD
-=======
-//push LearningSelenium
->>>>>>> branch 'master' of https://github.com/SumanthChinivar/ShivuShariqAniruddhSelenium.git
 //Learning click function
+//moye moye
 public class LearningClick {
 	// learning pushing
 	public static void main(String[] args) throws InterruptedException {
