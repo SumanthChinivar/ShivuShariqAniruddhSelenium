@@ -10,10 +10,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
-
 //Learning click function
+//Moye Moye
 public class LearningClick {
-	//learning pushing
+	// learning pushing
 	public static void main(String[] args) throws InterruptedException {
 		// to set and path
 		System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
@@ -27,7 +27,7 @@ public class LearningClick {
 		driver.get("https://sixeastern.com/");
 
 		Thread.sleep(5000);
-		Actions action=new Actions(driver);
+		Actions action = new Actions(driver);
 		WebElement src = driver.findElement(By.xpath("//h5[text()='media relations']"));
 		WebElement target = driver.findElement(By.xpath("//div[@data-scrollto='results']"));
 		action.click(target).perform();
